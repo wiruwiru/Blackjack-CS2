@@ -1,5 +1,5 @@
 # Blackjack CS2
-Blackjack is a fully-featured minigame plugin that brings the classic casino card game to Counter-Strike 2 servers with an intuitive HUD interface and comprehensive game mechanics.
+Blackjack is a fully-featured minigame plugin that brings the classic casino card game to Counter-Strike 2 servers.
 
 > [!NOTE]
 > This plugin is a modified and enhanced version of the original [cs2-blackjack](https://github.com/vulikit/cs2-blackjack) project
