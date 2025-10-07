@@ -1,0 +1,37 @@
+{
+  "prefix": "{green}[Blackjack] {default}",
+  "no_permission": "{red}Você não tem permissão para usar este comando",
+  "only_players": "{red}Apenas jogadores podem usar este comando",
+
+  "Already Playing A Game": "{red}Você já está em um jogo!",
+  "Starting A Game": "{lightyellow}Iniciando uma partida de Blackjack...",
+  "No Active Game": "{red}Você não tem um jogo ativo",
+  "Cooldown Active": "{orange}Você deve esperar {seconds} segundos antes de jogar outra partida",
+  "Inactivity Timeout": "{red}Você perdeu por inatividade!",
+  "Inactivity Loss": "Tempo esgotado",
+
+  "Hit": "{lightyellow}Você comprou 1 carta",
+  "Stand": "{lightyellow}Você parou",
+
+  "Win": "{lightyellow}Você ganhou!",
+  "Draw": "{lightblue}Empate!",
+  "Lose": "{red}Você perdeu!",
+
+  "Prize": "Vitória!",
+  "TieMessage": "Empate",
+  "DealerWon": "O dealer ganhou",
+  "WinTitle": "Você Ganhou",
+  "DrawTitle": "Empate",
+  "LoseTitle": "Você Perdeu",
+  "Dealer": "Dealer",
+  "You": "Você",
+  "ChooseTitle": "Escolha",
+  "Bust": "Estourou",
+  "More Than 21": "Você passou de 21, perdeu!",
+
+  "Player Won": "{0} ganhou",
+  "Player Lost": "{0} perdeu",
+  "Player Tied": "{0} empatou",
+  "Game Result Details": "com {0} contra {1} do dealer",
+  "Bust Result Details": "ao obter {0}"
+}

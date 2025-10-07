@@ -1,0 +1,37 @@
+{
+  "prefix": "{green}[Blackjack] {default}",
+  "no_permission": "{red}You don't have permission to use this command",
+  "only_players": "{red}Only players can use this command",
+
+  "Already Playing A Game": "{red}You are already in a game!",
+  "Starting A Game": "{lightyellow}Starting a Blackjack game...",
+  "No Active Game": "{red}You don't have an active game",
+  "Cooldown Active": "{orange}You must wait {seconds} seconds before playing another game",
+  "Inactivity Timeout": "{red}You lost due to inactivity!",
+  "Inactivity Loss": "Time's up",
+
+  "Hit": "{lightyellow}You drew 1 card",
+  "Stand": "{lightyellow}You stood",
+
+  "Win": "{lightyellow}You win!",
+  "Draw": "{lightblue}It's a tie!",
+  "Lose": "{red}You lose!",
+
+  "Prize": "Victory!",
+  "TieMessage": "Tie",
+  "DealerWon": "The dealer won",
+  "WinTitle": "You Win",
+  "DrawTitle": "Tie",
+  "LoseTitle": "You Lose",
+  "Dealer": "Dealer",
+  "You": "You",
+  "ChooseTitle": "Choose",
+  "Bust": "Bust",
+  "More Than 21": "You went over 21, you lose!",
+
+  "Player Won": "{0} won",
+  "Player Lost": "{0} lost",
+  "Player Tied": "{0} tied",
+  "Game Result Details": "with {0} against the dealer's {1}",
+  "Bust Result Details": "by getting {0}"
+}

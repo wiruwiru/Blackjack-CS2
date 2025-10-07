@@ -1,0 +1,37 @@
+{
+  "prefix": "{green}[Блэкджек] {default}",
+  "no_permission": "{red}У вас нет разрешения использовать эту команду",
+  "only_players": "{red}Только игроки могут использовать эту команду",
+
+  "Already Playing A Game": "{red}Вы уже в игре!",
+  "Starting A Game": "{lightyellow}Начало игры в Блэкджек...",
+  "No Active Game": "{red}У вас нет активной игры",
+  "Cooldown Active": "{orange}Вы должны подождать {seconds} секунд перед следующей игрой",
+  "Inactivity Timeout": "{red}Вы проиграли из-за бездействия!",
+  "Inactivity Loss": "Время вышло",
+
+  "Hit": "{lightyellow}Вы взяли 1 карту",
+  "Stand": "{lightyellow}Вы остановились",
+
+  "Win": "{lightyellow}Вы выиграли!",
+  "Draw": "{lightblue}Ничья!",
+  "Lose": "{red}Вы проиграли!",
+
+  "Prize": "Победа!",
+  "TieMessage": "Ничья",
+  "DealerWon": "Дилер выиграл",
+  "WinTitle": "Вы Выиграли",
+  "DrawTitle": "Ничья",
+  "LoseTitle": "Вы Проиграли",
+  "Dealer": "Дилер",
+  "You": "Вы",
+  "ChooseTitle": "Выберите",
+  "Bust": "Перебор",
+  "More Than 21": "У вас больше 21, вы проиграли!",
+
+  "Player Won": "{0} выиграл(а) игру",
+  "Player Lost": "{0} проиграл(а) игру",
+  "Player Tied": "{0} сыграл(а) вничью",
+  "Game Result Details": "с {0} против {1} дилера",
+  "Bust Result Details": "набрав {0}"
+}
